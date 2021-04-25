@@ -4,7 +4,7 @@
 Vue.js와 Vuex로 개발한 Netflix Clone 사이트입니다.
 ```
 
-### 사용한 플러그인
+### 사용한 기술
 
 ```
 - Vue.js
@@ -17,6 +17,4 @@ Vue.js와 Vuex로 개발한 Netflix Clone 사이트입니다.
 
 ### portfolio site
 
-```
 https://ljh9506.github.io/netflix/
-```
